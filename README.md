@@ -1,9 +1,12 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xikam01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xikam01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xikam01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Hi there, I'm Cabdiraxmaan cabdilaahi
 
----
-[![](https://visitcount.itsvg.in/api?id=xikam01&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-kaltouncadey&color=blueviolet&style=flat-square)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=kaltouncadey&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaltouncadey&layout=compact" />
+
+
+<br />
+
+<br />
+
