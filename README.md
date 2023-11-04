@@ -1,6 +1,6 @@
 # Hi ,I'm cabdiraxman cabdilahi
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xikam01&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xikam01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=xikam01&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xikam01&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
